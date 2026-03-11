@@ -1,8 +1,9 @@
 # Gift Hlahla
 
-Computer Science Student at NUST Bulawayo, Zimbabwe 🇿🇼  
-Building mobile, web and enterprise applications.  
-Currently seeking Industrial Attachment 2026.
+Full-Stack & Mobile Developer  
+BSc Computer Science @ NUST, Bulawayo, Zimbabwe 🇿🇼  
+3+ Years Experience | 42 Systems Built  
+Open to Industrial Attachment 2026
 
 ---
 
@@ -10,26 +11,47 @@ Currently seeking Industrial Attachment 2026.
 - **Mobile:** Flutter · Dart · Firebase
 - **Backend:** Java · Python · C#
 - **Web:** HTML · CSS · JavaScript
-- **Database:** SQL · Firebase Firestore
+- **Database:** SQL · Firebase Firestore · Microsoft Access
 - **Tools:** Git · GitHub · REST APIs · Gemini AI
 
 ---
 
-## Projects
+## Earlier Work (2022–2023)
+42 desktop management systems built independently  
+before university using C# & Microsoft Access  
+
+Industries covered:
+- 🏦 Banking & Finance
+- 🏥 Healthcare
+- 🎓 Education
+- 🛒 Retail & Commerce
+- 🚌 Transport
+- 🍕 Hospitality
+- 👥 HR & Management
+- 🏆 Sports & Recreation
+
+---
+
+## Current Projects (2026)
 - 🏦 Banking App — Flutter & Firebase
 - 📋 SI 41 Compliance App — Flutter & AI
-- 🖥️ Java Banking Admin System — Java & Firebase
-- 🎓 Student Portal System — Flutter & Java
+- 🖥️ Java Admin System — Java & Firebase
+- 🎓 Student Portal — Flutter & Java
 
 ---
 
 ## Certifications
-- ✅ Responsive Web Design — freeCodeCamp
-- ✅ AI Fundamentals — IBM SkillsBuild
-- ✅ Networking Basics — Cisco
+- ⏳ Responsive Web Design — freeCodeCamp
+- ⏳ AI Fundamentals — IBM SkillsBuild
+- ⏳ Networking Basics — Cisco
+- ⏳ Intro to Cybersecurity — TryHackMe
 
 ---
 
 ## Connect
 - 💼 LinkedIn: linkedin.com/in/gifthlahla
 - 📧 Email: gifthlahla78@gmail.com
+- 🌐 Portfolio: gifthlahla.github.io
+```
+
+---
