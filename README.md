@@ -49,9 +49,7 @@ Industries covered:
 ---
 
 ## Connect
-- 💼 LinkedIn: linkedin.com/in/gifthlahla
+- 💼 LinkedIn: https://linkedin.com/in/gifthlahla
 - 📧 Email: gifthlahla78@gmail.com
-- 🌐 Portfolio: gifthlahla.github.io
+- 🌐 Portfolio: https://gifthlahla.github.io
 ```
-
----
