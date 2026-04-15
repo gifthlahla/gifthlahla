@@ -33,10 +33,7 @@ Industries covered:
 ---
 
 ## Current Projects (2026)
-- 🏦 Banking App — Flutter & Firebase
-- 📋 SI 41 Compliance App — Flutter & AI
-- 🖥️ Java Admin System — Java & Firebase
-- 🎓 Student Portal — Flutter & Java
+- 🏦 SmartHealth App — Flutter & Supabase
 
 ---
 
