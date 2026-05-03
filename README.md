@@ -2,7 +2,7 @@
 
 Full-Stack & Mobile Developer  
 BSc Computer Science @ NUST, Bulawayo, Zimbabwe 🇿🇼  
-3+ Years Experience | 42 Systems Built  
+2+ Years Coding | 5+ Projects Built  
 Open to Industrial Attachment 2026
 
 ---
@@ -10,9 +10,9 @@ Open to Industrial Attachment 2026
 ## Tech Stack
 - **Mobile:** Flutter · Dart · Firebase
 - **Backend:** Java · Python · C#
-- **Web:** HTML · CSS · JavaScript
-- **Database:** SQL · Firebase Firestore · Microsoft Access
-- **Tools:** Git · GitHub · REST APIs · Gemini AI
+- **Web:** HTML · CSS · JavaScript · React · TailwindCSS
+- **Database:** SQL · Firebase Firestore · Microsoft Access · Supabase
+- **Tools:** Git · GitHub · REST APIs · Gemini AI · Vite
 
 ---
 
@@ -33,20 +33,31 @@ Industries covered:
 ---
 
 ## Current Projects (2026)
-- 🏦 SmartHealth App — Flutter & Supabase
+
+| Project | Stack | Status |
+|--------|-------|--------|
+| 🏦 Banking Transaction Tracker | Python (CLI) | ✅ Completed |
+| 🏥 SmartHealth App | Flutter, Supabase | ✅ Completed |
+| 💱 Zim Currency Converter | HTML, CSS, JS, API | ✅ Completed |
+| 🌤️ SADC Weather App | Flutter (Mock → Live API) | 🚧 In Progress |
+| 💰 Zwan Wallet App | Flutter, Supabase (planned) | 🚧 In Progress |
 
 ---
 
 ## Certifications
-- ⏳ Responsive Web Design — freeCodeCamp
-- ⏳ AI Fundamentals — IBM SkillsBuild
-- ⏳ Networking Basics — Cisco
-- ⏳ Intro to Cybersecurity — TryHackMe
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| Responsive Web Design | freeCodeCamp | ⏳ In Progress |
+| Networking Basics | Cisco | ⏳ Pending |
+| Microsoft Foundational C# | freeCodeCamp | ✅ Completed |
+| Python for Everybody | freeCodeCamp | ✅ Completed |
+| Introduction to Model Context Protocol | Anthropic | ✅ Completed |
+| Building with the Claude API | Anthropic | ✅ Completed |
 
 ---
 
 ## Connect
-- 💼 LinkedIn: www.linkedin.com/in/gift-hlahla-9437953b6
-- 📧 Email: gifthlahla78@gmail.com
-- 🌐 Portfolio: https://gifthlahla.github.io
-```
+- 💼 LinkedIn: [www.linkedin.com/in/gift-hlahla-9437953b6](https://www.linkedin.com/in/gift-hlahla-9437953b6)
+- 📧 Email: [gifthlahla78@gmail.com](mailto:gifthlahla78@gmail.com)
+- 🌐 Portfolio: [https://gifthlahla.github.io](https://gifthlahla.github.io)
