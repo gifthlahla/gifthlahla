@@ -51,7 +51,7 @@ Industries covered:
 | Responsive Web Design | freeCodeCamp | ⏳ In Progress |
 | Networking Basics | Cisco | ⏳ Pending |
 | Microsoft Foundational C# | freeCodeCamp | ✅ Completed |
-| Python for Everybody | freeCodeCamp | ✅ Completed |
+| Python for Everybody | freeCodeCamp | ⏳ In Progress |
 | Introduction to Model Context Protocol | Anthropic | ✅ Completed |
 | Building with the Claude API | Anthropic | ✅ Completed |
 
