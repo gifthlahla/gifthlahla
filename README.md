@@ -49,7 +49,7 @@ Industries covered:
 | Certification | Issuer | Status |
 |---------------|--------|--------|
 | Responsive Web Design | freeCodeCamp | ⏳ In Progress |
-| Networking Basics | Cisco | ⏳ Pending |
+| Networking Basics | Cisco | ⏳ In Progress |
 | Microsoft Foundational C# | freeCodeCamp | ✅ Completed |
 | Python for Everybody | freeCodeCamp | ⏳ In Progress |
 | Introduction to Model Context Protocol | Anthropic | ✅ Completed |
