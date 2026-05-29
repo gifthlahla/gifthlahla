@@ -39,8 +39,9 @@ Industries covered:
 | 🏦 Banking Transaction Tracker | Python (CLI) | ✅ Completed |
 | 🏥 SmartHealth App | Flutter, Supabase | ✅ Completed |
 | 💱 Zim Currency Converter | HTML, CSS, JS, API | ✅ Completed |
-| 🌤️ SADC Weather App | Flutter (Mock → Live API) | 🚧 In Progress |
-| 💰 Zwan Wallet App | Flutter, Supabase (planned) | 🚧 In Progress |
+| 🖥️ FastAPI-React Todo App | FastAPI, React, TypeScript, SQLite | ✅ Completed |
+| 🏧 ATM Interface (Java Swing) | Java, Swing, GUI | ✅ Completed |
+| 💼 Desktop Management Systems (42 projects) | C#, Windows Forms, MS Access | ✅ Completed |
 
 ---
 
